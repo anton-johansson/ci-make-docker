@@ -18,3 +18,8 @@ Versions are based of the Docker version, as both `git` and `make` are versioned
 $ docker build --tag antonjohansson/ci-make-docker:18.09.5 .
 $ docker push antonjohansson/ci-make-docker:18.09.5
 ```
+
+
+## License
+
+This tool is distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), see [LICENSE](./LICENSE) for more information.
